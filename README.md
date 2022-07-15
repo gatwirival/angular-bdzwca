@@ -1,3 +1,6 @@
-# angular-bdzwca
+# Angular simple e-commerce ui
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-bdzwca)
+### PREREQUISITES
+- Create the product list
+- Pass data to a child component
+- Pass data to a parent component
