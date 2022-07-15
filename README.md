@@ -1,4 +1,4 @@
-# Angular simple e-commerce ui
+# Angular simple e-commerce App
 
 ### PREREQUISITES
 - Create the product list
